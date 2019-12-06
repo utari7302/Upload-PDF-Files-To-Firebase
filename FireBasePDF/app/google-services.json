@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912343116656",
+    "firebase_url": "https://pdf-files-47439.firebaseio.com",
+    "project_id": "pdf-files-47439",
+    "storage_bucket": "pdf-files-47439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912343116656:android:273923de915245aa",
+        "android_client_info": {
+          "package_name": "com.samt.firebasepdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912343116656-05r1vo8ossskiioq015dd72h7i77ovvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samt.firebasepdf",
+            "certificate_hash": "51622323ae4853f018f975be4a32ca10e62df043"
+          }
+        },
+        {
+          "client_id": "912343116656-j4i61irjt5gsplq0g1gj2od91a43c7o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdhzxJPa1oHMve97IGnJ9wD_zdofaF6Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912343116656-j4i61irjt5gsplq0g1gj2od91a43c7o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
